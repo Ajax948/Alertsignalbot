@@ -1,10 +1,10 @@
 {
   "name": "telegram-trading-bot",
   "version": "1.0.0",
-  "description": "Bot de trading por Telegram con CoinGecko: precios, graficos, alertas y paper trading",
-  "main": "bot.js",
+  "description": "Bot de trading por Telegram con CoinGecko",
+  "main": "index.js",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "dotenv": "^16.4.5",
